@@ -1,0 +1,50 @@
+[
+  {
+    "question": "When and where are the weekly meetings held?",
+    "keywords": ["2:00 AM", "F-105"],
+    "type": "direct",
+    "pages": [1]
+  },
+  {
+    "question": "What is the name of the club's mascot?",
+    "keywords": ["Segfault"],
+    "type": "direct",
+    "pages": [1]
+  },
+  {
+    "question": "What is the official snack of the club and what is it cooked in?",
+    "keywords": ["Maggi", "coffee maker"],
+    "type": "direct",
+    "pages": [1]
+  },
+  {
+    "question": "What is the secret password to access the hidden Discord server?",
+    "keywords": ["01001000 01101001"],
+    "type": "direct",
+    "pages": [2]
+  },
+  {
+    "question": "What is the penalty for being late to a meeting, and what is the penalty for causing a memory leak?",
+    "keywords": ["Pi", "chai"],
+    "type": "split",
+    "pages": [1, 2]
+  },
+  {
+    "question": "Who established the club in 2018, and what programming rule will get your keyboard confiscated?",
+    "keywords": ["computer science", "using namespace std"],
+    "type": "split",
+    "pages": [1, 2]
+  },
+  {
+    "question": "Who is the current president of the Null Pointers?",
+    "keywords": [],
+    "type": "absent",
+    "pages": []
+  },
+  {
+    "question": "How much is the annual membership fee for the club?",
+    "keywords": [],
+    "type": "absent",
+    "pages": []
+  }
+]

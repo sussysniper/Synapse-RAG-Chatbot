@@ -1,0 +1,31 @@
+The Null Pointers: Official Club Handbook
+
+Established in 2018 in the secret basement of the G101 complex.
+
+Welcome to the Club
+
+The Null Pointers is a completely fictional, underground society of computer science students. We do not exist, and this handbook does not exist. If you are reading this, you have likely stumbled upon our GitHub repository or were handed this by a suspicious senior in the mess hall.
+
+Meeting Times and Locations
+
+We do not meet on regular days. Weekly meetings are strictly held at 2:00 AM on Fridays in Room F-105. Do not be late. If you are late, you must recite the first 10 digits of Pi backwards to gain entry.
+
+The Mascot
+
+Our official club mascot is a slightly melted rubber duck named Segfault. Segfault sits on top of the server rack during all hackathons to ensure the Wi-Fi remains stable. If the Wi-Fi crashes, it is because someone did not bow to Segfault before pushing their code to main.
+
+Initiation Ritual
+
+To become a full member, you must debug a piece of C++ code that contains an infinite loop. The loop must be caused by a misplaced semicolon. You are given exactly 15 minutes and one cup of lukewarm chai to fix it.
+
+Rules and Penalties
+
+Any member who causes a memory leak during a 48-hour hackathon is responsible for buying chai for all seniors for a week.
+
+Anyone caught using "using namespace std;" in a professional production environment will have their keyboard confiscated.
+
+The official snack of the club is Maggi, cooked exclusively in a slightly broken coffee maker.
+
+The Secret Password
+
+If you ever need to access the hidden Discord server, the password is the binary representation of the word Hi (01001000 01101001).
